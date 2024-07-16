@@ -1,12 +1,3 @@
-/*
-CommandSystem.java
-For use in the Final project for COSC 236.
-Based on starter code first developed by Prof. Dastyni Loksa
-
-This class is the primary logic class for the system. It defines what commands are valid, 
-and what happens when those commands are executed.  
-*/
-
 import java.io.Console;
 import java.util.*;
 

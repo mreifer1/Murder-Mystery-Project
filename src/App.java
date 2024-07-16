@@ -1,19 +1,3 @@
-/* UML document for starter code:
-    https://lucid.app/lucidchart/285ca85b-58f3-40e4-a98a-4d54bd2fc03d/view?page=0_0#
-
-
-App.java
-For use in the Final project for COSC 236.
-Based on starter code first developed by Prof. Dastyni Loksa
-
-This is the driver class of the project. It is in charge of the following:
-
-- Setting up the game by creating the GameState.
-- The main game loop deciding when the game quits.
-- The input from the user and routing to the correct methods in the CommandSystem.
-
-*/
-
 import java.util.*;
 import java.lang.Thread;
 
